@@ -107,7 +107,7 @@ author:
   name             : "NOBTG"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Within the intricate tapestry of existence, one finds the sublime elegance of profound wisdom, leaving observers captivated by the aura of sophistication."
-  location         : "zh-TW"
+  # location         : "zh-TW"
   email            :
   links:
     - label: "Email"
